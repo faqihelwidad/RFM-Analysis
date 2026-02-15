@@ -27,7 +27,7 @@ The dataset consists of a single transactional table containing order-level, cus
 
 This project applies RFM (Recency, Frequency, Monetary) analysis to segment customers based on transaction behavior and purchasing value. The analysis reveals that Champions customers demonstrate the strongest loyalty and spending behavior, while Potential Loyalists generate the highest total revenue due to their large population. These findings highlight key opportunities to strengthen customer retention and improve sales effectiveness through targeted strategies.
 
-![Dashboard](RFM__Dashboard.png)
+![Dashboard](RFM_Dashboard.png)
 
 # Insights Deep Dive
 
